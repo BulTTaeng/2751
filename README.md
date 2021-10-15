@@ -8,6 +8,8 @@ made by Jaehyeok Choi
 
 ![button](https://github.com/Choi-JaeHyeok-21500749/2751/blob/main/2751_pro.JPG)
 
+(Because I'm going to Gwangju so see my parents and I have to go to volunteer today, I don't have much time. Because of these reasons, I solve simple problem...)
+
 ## What was the key point and the hard part?
  
 First , I try it with quick sort, but time complexity gets over.
